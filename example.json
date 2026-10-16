@@ -1,0 +1,12 @@
+{
+  "policy": {
+    "Statement": [
+      {
+        "Sid": "Demo",
+        "Effect": "Allow",
+        "Action": "s3:*",
+        "Resource": "*"
+      }
+    ]
+  }
+}
